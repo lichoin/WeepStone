@@ -14,9 +14,6 @@ final PoC identity).
 | File | Description |
 |---|---|
 | [writeup.md](writeup.md) | Submission writeup (English) |
-| [writeup_zh.md](writeup_zh.md) | Submission writeup (Chinese) |
-| [writeup-graph.png](writeup-graph.png) | The 9-node LangGraph workflow (LangGraph Studio) |
-| [weepstone-icon.png](weepstone-icon.png) | System icon |
 
 ## Headline numbers
 
