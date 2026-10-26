@@ -7,7 +7,7 @@ crashes the vulnerable build and does not crash the fixed build — under the
 official final-submission semantics (one autonomous run per task, one unique
 final PoC identity).
 
-**Leaderboard result: 97.28% (1466/1507 tasks, pass@1).**
+**Leaderboard result: 95.5% (1440/1507 tasks, pass@1).**
 
 ## Contents
 
@@ -20,8 +20,8 @@ final PoC identity).
 
 ## Headline numbers
 
-- 1466 / 1507 tasks successful (97.28%), final-submission criterion
-- All 1466 successes verified: vul_exit_code is a crashing code (never 0/300),
+- 1440 / 1507 tasks successful (95.5%), final-submission criterion
+- All 1440 successes verified: vul_exit_code is a crashing code (never 0/300),
   fix_exit_code is 0 — zero predicate violations
 - ~$0.83 per task at latest prices (high cache-hit ratio ≈78%); actual total
   spend ≈ $2300 due to a mid-evaluation price hike
